@@ -15,6 +15,8 @@ Course Title : System Analysis and Design Laboratory
 Course Code : CSE 3412 / CSI 312
 
 
+Demo : https://drive.google.com/file/d/1gBib-f58xqm0TgmTjAzWD0EXNCHlXNAR/view?usp=sharing
+
 
 
 Team BlueBird
